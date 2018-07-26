@@ -1,7 +1,14 @@
 {
+  "name": "phish-cli",
+  "author": "Casey Kelly",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
   "dependencies": {
     "dotenv": "^6.0.0",
     "node-fetch": "^2.2.0",
     "striptags": "^3.1.1"
+  },
+  "bin": {
+    "phish": "./bin/phish-cli.js"
   }
 }
