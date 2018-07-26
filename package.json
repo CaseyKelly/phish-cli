@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "dotenv": "^6.0.0",
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.2.0",
+    "striptags": "^3.1.1"
   }
 }
