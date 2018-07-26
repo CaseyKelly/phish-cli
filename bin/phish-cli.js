@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-var index = require('../lib/index.js')
+require('../lib/index.js');
